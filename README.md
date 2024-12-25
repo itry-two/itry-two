@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @itry-two
-- 👀 I’m interested in learning
-- 🌱 I’m currently learning how to set up the stack
-- 💞️ I’m looking to collaborate on finding a teacher
-- 📫 How to reach me on my profile links 
-- 😄 Pronouns: ...
+- 👀 I’m interested in building products that blurr the lines between trading and gaming
+- 🌱 I’m currently learning how things work.
+- 💞️ I’m looking to collaborate on trading tech. 
+- 📫 You can reach me on here 
 - ⚡ Fun fact: I love this stuff 
 
 <!---
